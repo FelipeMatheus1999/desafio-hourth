@@ -1,0 +1,8 @@
+# Files
+.env
+db.sqlite3
+
+# Folders
+venv
+.idea
+__pycache__
